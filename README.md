@@ -4,6 +4,8 @@ PM for Web3 Messaging.
 
 https://github.com/w3f/messaging
 
+Chat https://riot.im/app/#/room/!qycGRBvLmMwrYUUAhF:matrix.org
+
 
 ### Previous Meetings
  №  | Date | Notes | Recording | Transcript
